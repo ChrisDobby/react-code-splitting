@@ -1,3 +1,5 @@
+Code for the Pluralsight guide [Code Splitting in a React Application](https://www.pluralsight.com/guides/code-splitting-in-a-react-application)
+
 # react-code-splitting
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
